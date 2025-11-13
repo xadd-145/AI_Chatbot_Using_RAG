@@ -1,0 +1,31 @@
+﻿# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.log
+
+# ===== Virtual Environment =====
+.venv/
+env/
+venv/
+
+# ===== Local Data =====
+data/
+chroma_db/
+nltk_data/
+ocr_output/
+*.pdf
+*.csv
+*.json
+
+# ===== Streamlit =====
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# ===== System / IDE =====
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,10 @@
+﻿streamlit
+langchain
+langchain-community
+chromadb
+pypdf2
+nltk
+sentence-transformers
+paddleocr
+paddlepaddle
+transformers
